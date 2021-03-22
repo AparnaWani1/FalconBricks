@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FalconBricks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_search">Search</string>
+    <string name="units_activity_status">Units, Activity, Status</string>
+    <string name="type_here">Type to start searching for</string>
+</resources>
